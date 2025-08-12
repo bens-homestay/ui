@@ -42,7 +42,7 @@ export default function About() {
 
                 <h1 className="text-4xl font-heading">Meet Ben & Anju</h1>
                 <p className="mt-3 text-muted-foreground max-w-3xl">
-                    Hosts of Ben's Cruise & Staycation — curators of authentic island life. We
+                    Hosts of Ben&rsquo;s Cruise & Staycation — curators of authentic island life. We
                     welcome travelers to experience the warmth of Kerala through nature, wellness and cultural exchange.
                 </p>
 

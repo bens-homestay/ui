@@ -27,12 +27,12 @@ export default function HeroSection() {
       <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-background/30 to-transparent"></div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 h-full flex items-end pb-12 md:pb-16">
         <div className="max-w-2xl animate-enter w-full">
-          <p className="text-sm uppercase tracking-wider">Discover Kerala's Hidden Paradise</p>
+          <p className="text-sm uppercase tracking-wider">Discover Kerala&rsquo;s Hidden Paradise</p>
           <h1 className="mt-2 text-3xl md:text-5xl lg:text-6xl font-heading leading-tight">
             Luxury Houseboats, Island Adventures & Authentic Staycation
           </h1>
           <p className="mt-4 text-muted-foreground text-sm md:text-base">
-            Cruises, premium stays and curated experiences across Kadamakudy's 14 islands.
+            Cruises, premium stays and curated experiences across Kadamakudy&rsquo;s 14 islands.
           </p>
           
           {/* Desktop Button Layout */}

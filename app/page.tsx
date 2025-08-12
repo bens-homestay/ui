@@ -1,7 +1,6 @@
 import HeroSection from "@/components/sections/HeroSection";
 import ExploreSection from "@/components/sections/ExploreSection";
 import ReviewSlider from "@/components/sections/ReviewSlider";
-import WhatsAppFloat from "@/components/reusable/WhatsappFloat";
 import { SITE } from "@/config/site";
 
 

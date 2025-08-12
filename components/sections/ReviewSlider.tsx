@@ -80,7 +80,7 @@ export default function ReviewSlider() {
                   <div className="h-full">
                     <blockquote className="p-6 rounded-xl border bg-card shadow-sm hover:shadow-md transition-shadow h-full flex flex-col justify-between">
                       <div>
-                        <div className="text-primary text-2xl mb-2">"</div>
+                        <div className="text-primary text-2xl mb-2">&rdquo;</div>
                         <p className="text-foreground leading-relaxed">{review.quote}</p>
                       </div>
                       <footer className="mt-4 pt-4 border-t">

@@ -98,7 +98,7 @@ export default function SiteHeader() {
       >
         <div className="mx-auto max-w-7xl px-4 py-3 flex items-center justify-between">
           <Link href="/" className="flex items-baseline gap-2">
-            <span className="text-xl font-heading">Ben's</span>
+            <span className="text-xl font-heading">Ben&rsquo;s</span>
             <span className="text-sm text-muted-foreground">Cruise & Staycation</span>
           </Link>
 
@@ -159,7 +159,7 @@ export default function SiteHeader() {
               <div className="w-[85%] max-w-sm">
                 <ActionButtons variant="mobile" />
               </div>
-            </div>
+            </div>``
           </div>
         </div>
       )}

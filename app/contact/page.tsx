@@ -8,7 +8,7 @@ import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { toast } from "@/hooks/use-toast";
-import { SITE, CONTACT } from "@/config/site";
+import { SITE } from "@/config/site";
 import { useState } from "react";
 
 
@@ -109,7 +109,7 @@ export default function Contact() {
           </Form>
           <div className="text-sm text-muted-foreground">
             <p><strong>Address:</strong> Kadamakudy Islands, Kochi, Kerala</p>
-            <p className="mt-2">We're happy to arrange airport/city pickups on request.</p>
+            <p className="mt-2">We&rsquo;re happy to arrange airport/city pickups on request.</p>
           </div>
         </div>
       </div>
